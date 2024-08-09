@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/xxPHDEVxx/xxPHDEVxx/blob/main/header.webp" alt="MasterHead" width="500" height="300" />
+  <img src="https://github.com/xxPHDEVxx/xxPHDEVxx/blob/main/header.webp" alt="MasterHead" width="300" height="200" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Rayan.</h1>
