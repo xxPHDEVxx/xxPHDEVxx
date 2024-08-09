@@ -33,4 +33,4 @@
 
 <h3>Stats</h3>
 
-  [![Rayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxPHDEVxx)](https://github.com/xxPHDEVxx/github-readme-stats)
+  ![Rayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxPHDEVxx&show_icons=true&theme=transparent)
