@@ -34,3 +34,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>   </p>
 
 <br/>
+
+<h3>Stats</h3>
+
+  [![Rayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxPHDEVxx)](https://github.com/xxPHDEVxx/github-readme-stats)
