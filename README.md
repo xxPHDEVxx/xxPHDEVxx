@@ -1,4 +1,7 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<div align="center">
+  <img src="https://github.com/xxPHDEVxx/xxPHDEVxx/blob/main/header.webp" alt="MasterHead" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Rayan.</h1>
 <h3 align="center">
   A curious developer with a passion for coding and artificial intelligence. Currently in my final year of a Bachelor's in Computer Science, I'm a strong advocate of self-learning and   am currently diving deep into AI and machine learning. I’m always eager to explore new technologies and techniques to enhance my skills and contribute to innovative projects.
