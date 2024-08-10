@@ -8,7 +8,7 @@
 </h3>
 
 
-- 🔭 I’m currently learning IA / Machine Learning
+- 🔭 I’m currently learning IA / Machine Learning by myself
 
 - 📫 How to reach me **rayanbenaissa@gmail.com**
 
