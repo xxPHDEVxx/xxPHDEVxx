@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Rayan.</h1>
 <h3 align="center">
-  A curious developer with a passion for coding and artificial intelligence. Currently in my final year of a Bachelor's in Computer Science, I'm a strong advocate of self-learning and   am currently diving deep into AI and machine learning. I’m always eager to explore new technologies and techniques to enhance my skills and contribute to innovative projects.
+  A curious developer with a passion for coding and artificial intelligence. Currently learning Computer Science, I'm a strong advocate of self-learning and   am currently diving deep into AI and machine learning. I’m always eager to explore new technologies and techniques to enhance my skills and contribute to innovative projects.
 </h3>
 
 
